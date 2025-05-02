@@ -24,8 +24,8 @@ It also uses the `tabulate` library to display transaction history in a clear ta
    python atm.py
 
 This will launch the ATM interface; follow the on-screen prompts to use the ATM functions.
-##Requirements
+## Requirements
 - Python 3.x
 - tabulate module (install it via pip):
-##Author
+## Author
 Developed by G. Banidhar
